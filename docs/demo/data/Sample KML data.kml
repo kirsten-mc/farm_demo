@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="193">
+      <name>Birch Point</name>
+      <description>Ground was broken in late summer of 2017 in this plot. It has previously been a fallow field not grazed, or hayed. The plot was cover cropped with oats and peas, and buck wheat for 1 full season before transitioning into production in 2019. 1 manure spreader load of chicken litter was applied to increase fertility as well as an application of lyme for a PH adjustment. Heavy deer pressure in the field. Fencing is needed for any crops considered as browsing stock by deer. Plot was sub soiled in summer of 2019 to improve poor drainage.</description>
+	  <Polygon><outerBoundaryIs><LinearRing><coordinates>-70.07876011945,43.834811729973 -70.078397647976,43.834659799324 -70.07879903178,43.834233187348 -70.079201754643,43.834478554639 -70.07876011945,43.834811729973</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+	<Placemark id="162">
+      <name>Wishcamper</name>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-70.076355708561,43.831874161202 -70.076081171028,43.832304186448 -70.075767687849,43.832542249803 -70.075331587414,43.832709817826 -70.075184653469,43.832713612067 -70.075123150273,43.8326648925 -70.075052753091,43.83268409778 -70.074719885615,43.832661748364 -70.074577331543,43.83261711127 -70.074507060417,43.832526362693 -70.074541384638,43.832439429375 -70.074679716818,43.832346186485 -70.074780887044,43.832237454833 -70.074846756688,43.83207748751 -70.074969835277,43.832017160189 -70.075044652767,43.832022858289 -70.075186968152,43.832104575714 -70.075443245169,43.831990896133 -70.075739503209,43.831616026518 -70.075991829353,43.831437706992 -70.076201838265,43.831551571502 -70.076355708561,43.831874161202</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+  </Document>
+</kml>	
