@@ -1,0 +1,60 @@
+﻿1
+00:00:00,000 --> 00:00:05,100
+KML files represent geographic data in tools such as Google Earth,
+
+2
+00:00:05,100 --> 00:00:08,366
+and they can represent one or more Areas in farmOS
+
+3
+00:00:08,366 --> 00:00:13,666
+To import into farmOS, copy your KML xml to the clipboard
+
+4
+00:00:13,666 --> 00:00:17,866
+And go to the Areas page, Area importer tab.
+
+5
+00:00:17,866 --> 00:00:20,399
+Paste in your xml
+
+6
+00:00:20,400 --> 00:00:22,866
+and choose a Default area type.
+
+7
+00:00:22,866 --> 00:00:25,566
+You can change this later for individual areas.
+
+8
+00:00:25,566 --> 00:00:28,599
+Once Parsed,
+
+9
+00:00:28,600 --> 00:00:34,900
+you can edit each of the areas, refining the Name, Area type, Description or Geometry.
+
+10
+00:00:34,900 --> 00:00:37,666
+If there are several areas in your KML file,
+
+11
+00:00:37,666 --> 00:00:40,499
+you can choose which to import.
+
+12
+00:00:40,500 --> 00:00:42,433
+You can also create a new parent area,
+
+13
+00:00:42,433 --> 00:00:45,199
+to keep your geometries organized.
+
+14
+00:00:45,200 --> 00:00:47,500
+Create areas,
+
+15
+00:00:47,500 --> 00:00:50,000
+and review your import.
+
